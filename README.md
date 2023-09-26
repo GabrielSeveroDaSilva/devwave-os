@@ -38,15 +38,15 @@
 ```
 1. Por favor, insira as informações da sua conexão de banco de dados.
 Host: mysql
-Usuário: mapos
-Senha: mapos
+Usuário: root
+Senha: 
 Banco de Dados: mapos
 
 2. Por favor, insira as informações para sua conta de administrador.
 Configure do jeito que quiser.
 
 3. Por favor, insira a URL.
-URL: http://localhost:8000/
+URL: http://localhost/
 ```
 6. Configure o email de envio no arquivo email.php.
 
@@ -104,18 +104,3 @@ Para listar todos os comandos de terminal disponíveis, basta executar o comando
 * PHP >= 8.1
 * MySQL
 * Composer
-
-### Doações
-
-Gosta do mapos e gostaria de contribuir com seu desenvolvimento?
-
-Doações podem ser realizadas nos links:
-* [catarse/mapos](https://www.catarse.me/mapos) - Mensal
-* [kofi/mapos](https://ko-fi.com/mapos) - Exporádica
-
-### Contribuidores
-[![Contribuidores](https://contrib.rocks/image?repo=RamonSilva20/mapos)](https://github.com/RamonSilva20/mapos/graphs/contributors)
-
-## Autor
-| [<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>Ramon Silva</sub>](https://github.com/RamonSilva20) |
-| :---: |
